@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Each module works alone except the 'Get /metrics' which register the whole app metrics
 
 ## Installation
 
